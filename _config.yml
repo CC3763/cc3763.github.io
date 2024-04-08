@@ -5,4 +5,4 @@
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pullrequest.
 *       @global-owner1 @global-owner2
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-cayman
