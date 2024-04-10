@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: CC's Blog
+description: A beginner's self-built blog
+url: https://ccpriz.top
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: CC3763
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Simon Chen
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/CC3763
+    - https://github.com/CC3763
 google_site_verification: xxxxx
 lang: en
 
@@ -54,11 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: vszhub/not-pure-poole
+  name: Simon Chen
+  url: https://github.com/CC3763/
+  email: cyc376@gmail.com
