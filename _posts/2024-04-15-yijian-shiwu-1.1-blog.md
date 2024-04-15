@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 一建建筑实务学习记录
-date: 2024-04-15 14:47:51 +0800
-last_modified_at: 2024-04-15 20:32:55 +0800
+title: 第一章 建筑工程设计技术<br>1.1 建筑物的构成与设计要求
+date: 2024-04-15 20:53:41 +0800
+last_modified_at: 2024-04-15 20:53:41 +0800
 tags: [一建, 建筑工程, 实务]
 toc:  true
 ---
 
-**About**：CC的一建实务笔记合计，持续更新中~
+**About**：一建建筑实务课本P1~14
 
 <!-- 样式调整 -->
 <style>
@@ -19,12 +19,10 @@ td.colspan-center {
 }
 </style>
 
-## 第一章 建筑工程设计技术
-### 1.1 建筑物的构成与设计要求
-#### 1.1.1 建物的分类与构成
- 1. 建筑物的分类
+## 1.1.1 建物的分类与构成
+### 1. 建筑物的分类
   
-    a. 按用途及规模分类
+ 1. 按用途及规模分类
     <table>
         <tr>
             <th colspan=2  class="colspan-center">分类方式</th>
@@ -59,9 +57,9 @@ td.colspan-center {
         </tr>
     </table>
     <br>
-    b. 按层数、高度分类
+ 2. 按层数、高度分类
     
-    （1）根据《民用建筑设计统一标准》 GB 50352-2019
+     （1）根据《民用建筑设计统一标准》 GB 50352-2019
     <table>
         <tr>
             <th>分类</th>
@@ -107,7 +105,7 @@ td.colspan-center {
             <td>高</td>
             <td><mark>①H＞50m</mark></td>
             <td rowspan=3 class="colspan-center">一类外</td>
-             <td rowspan=3>H＞24m的单层<br><br>H≤24m</td>
+            <td rowspan=3>H＞24m的单层<br><br>H≤24m</td>
         </tr>
         <tr>
             <td>大</td>
@@ -129,50 +127,51 @@ td.colspan-center {
     <br>&emsp;&emsp;⑥第④⑤条规定以外的建筑，屋顶设备用房及其他局部突出屋面用房的总面积不超过屋面面积的<font color="#0000FF">1/4</font>时，<font color="#0000FF">不应</font>计入建筑高度。
     <br>&emsp;&emsp;⑦建筑的室内净高应满足各类型频季务高的最低要求，地下室、局部夹层、公共走道、建筑避难区、架空层等有人员正常活动的场所最低处室内净高不应小于<font color="#FF0000">2.00m</font>。
     <br><br>
- 2. 建筑物的构成
-    <table>
-        <tr>
-            <th class="colspan-center">体系</th>
-            <th class="colspan-center">作用</th>
-            <th colspan=2 class="colspan-center">组成</th>
-        </tr>
-        <tr>
-            <th rowspan=2>结构体系</th>
-            <td rowspan=2 width="90px">承受竖向侧向荷载</td>
-            <td>上部结构</td>
-            <td>墙、柱、梁、板、屋顶</td>
-        </tr>
-        <tr>
-            <td>地下结构</td>
-            <td>基础结构（不包括地基）</td>
-        </tr>
-        <tr>
-            <th>维护体系</th>
-            <td>遮风挡雨隔声</td>
-            <td colspan=2>屋面、外墙、门、窗等</td>
-        </tr>
-        <tr>
-            <th rowspan=3>设备体系</th>
-            <td rowspan=3>功能性</td>
-            <td colspan=2>给排水、供电、供热、通风</td>
-        </tr>
-        <tr>
-            <td colspan=2>强电：供电、照明</td>
-        </tr>
-        <tr>
-            <td colspan=2>弱电：通信、信息、探测、报警</td>
-        </tr>
-    </table>
+### 2. 建筑物的构成
+    
+<table>
+    <tr>
+        <th class="colspan-center">体系</th>
+        <th class="colspan-center">作用</th>
+        <th colspan=2 class="colspan-center">组成</th>
+    </tr>
+    <tr>
+        <th rowspan=2 class="colspan-center">结构体系</th>
+        <td rowspan=2 width="90px">承受竖向侧向荷载</td>
+        <td>上部结构</td>
+        <td>墙、柱、梁、板、屋顶</td>
+    </tr>
+    <tr>
+        <td>地下结构</td>
+        <td>基础结构（不包括地基）</td>
+    </tr>
+    <tr>
+        <th class="colspan-center">维护体系</th>
+        <td>遮风挡雨隔声</td>
+        <td colspan=2>屋面、外墙、门、窗等</td>
+    </tr>
+    <tr>
+        <th rowspan=3 class="colspan-center">设备体系</th>
+        <td rowspan=3>功能性</td>
+        <td colspan=2>给排水、供电、供热、通风</td>
+    </tr>
+    <tr>
+        <td colspan=2>强电：供电、照明</td>
+    </tr>
+    <tr>
+        <td colspan=2>弱电：通信、信息、探测、报警</td>
+    </tr>
+</table>
 
 
-#### 1.1.2 建筑设计程序与要求
+## 1.1.2 建筑设计程序与要求
 
-1. 建筑设计程序
+### 1. 建筑设计程序
 
-    <span style="color:#FF0000;">方案</span>设计→<span style="color:#FF0000;">初步</span>设计→<span style="color:#FF0000;">施工图</span>设计→<span style="color:#FF0000;">专项</span>设计<br>速记口诀：俺不识相
-    *<br><font size=2>注：满足以下条件，初设可跳过：<br>①技术要求简单的民用建筑工程，有关主管部门初设阶段无审查要求；<br>②合同中无初设约定。</font>*
+<span style="color:#FF0000;">方案</span>设计→<span style="color:#FF0000;">初步</span>设计→<span style="color:#FF0000;">施工图</span>设计→<span style="color:#FF0000;">专项</span>设计<br>速记口诀：俺不识相
+*<br><font size=2>注：满足以下条件，初设可跳过：<br>①技术要求简单的民用建筑工程，有关主管部门初设阶段无审查要求；<br>②合同中无初设约定。</font>*
 
- 2. 建筑设计要求
+### 2. 建筑设计要求
 
-    ①满足相关建筑标准、规范；<br>②满足建筑功能要求是建筑设计的**首要任务**；<br>③符合总体规划要求：**规划设计**是有效控制城市发展的**重要手段**；<br>④采用合理的技术措施；<br>⑤考虑建筑美观要求；<br>⑥具有良好的经济效益。
-    <br>**总结**：功能、规划、技术、美观、效益
+①满足相关建筑标准、规范；<br>②满足建筑功能要求是建筑设计的**首要任务**；<br>③符合总体规划要求：**规划设计**是有效控制城市发展的**重要手段**；<br>④采用合理的技术措施；<br>⑤考虑建筑美观要求；<br>⑥具有良好的经济效益。
+<br>**总结**：功能、规划、技术、美观、效益
