@@ -25,6 +25,7 @@ exclude:
   - LICENSE.md
   - README.md
   - scripts/
+  - vendor/
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
